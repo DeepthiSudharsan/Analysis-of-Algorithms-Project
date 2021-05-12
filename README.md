@@ -1,1 +1,1 @@
-# Algorithms-Project-Sem4
+### Analyzing the following algorithms - Genetic Algorithm using Travelling Salesman Problem, Heap Sort, Tree Sort and Shell sort. 
