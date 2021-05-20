@@ -8,3 +8,4 @@ python -m spylon_kernel install
 ```
 In the sorting algorithms, we jotted down the execution time (In Milliseconds) for various N (No of elements) values and exported this data into respective csv files for analysis. The csv files with the (No of elements,Execution time) data for the three sorting algorithms are HeapSort_Analysis.csv, Shell_Sort_Analysis.csv, and TreeSort_Analysis.csv .
 
+The excel-graph analysis of the best,average,worst time complexity and observed execution time for the sorting algorithms for different input sizes have also been provided. 
